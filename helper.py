@@ -3,7 +3,7 @@ This is the helper script for QTRIPSTATIC
 It can:
 1. Download the assets folder from Google Drive and untar it
 2. Update the Module Id in metadata.json and push it to the git repo
-3.
+
 Invocation:
 > python3 helper.py --setup
 > python3 helper.py --update <next_module_name>
